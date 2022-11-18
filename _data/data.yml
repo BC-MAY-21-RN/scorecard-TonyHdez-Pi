@@ -26,7 +26,7 @@ sidebar:
   # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: C2 Proficient (EF-SET) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C2 Proficient EF-SET # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
