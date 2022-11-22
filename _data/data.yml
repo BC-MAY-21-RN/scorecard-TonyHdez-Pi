@@ -50,6 +50,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: Self taught front end developer.
+
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Mobile Developer
@@ -63,6 +64,7 @@ experiences:
         - Typescript
         - Sass
         - Git
+       
 # Registra aquí los proyectos en los que has participado
 projects:
   title: Projects
@@ -75,6 +77,7 @@ projects:
     - title: Bright Coders
       link: "#"
       tagline: "Made three different apps using React Native"
+     
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
