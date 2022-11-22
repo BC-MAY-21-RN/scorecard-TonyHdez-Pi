@@ -56,9 +56,8 @@ experiences:
   - role: React Native Mobile Developer
     time: August 2022 - November 2022
     company: Bright Coders Instutute
-    details: |
-      I worked with an agile team, i made several screen for an app called "Tribo", as well made some components for different screens.
-      Technologies used:
+    details: I worked with an agile team, i made several screen for an app called "Tribo", as well made some components for different screens.
+      Technologies used
         - React Native
         - Javascript
         - Typescript
@@ -72,11 +71,11 @@ projects:
   assignments:
     - title: Front End Mentor
       link: "#hook"
-      tagline: "Completed several challenges. All about front end development"
+      tagline: Completed several challenges. All about front end development
 
     - title: Bright Coders
       link: "#"
-      tagline: "Made three different apps using React Native"
+      tagline: Made three different apps using React Native
      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
